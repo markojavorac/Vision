@@ -8,9 +8,9 @@ This application analyzes of a video stream and usees NN to capture and detect w
 - refine istallation guide
 
 ## File Structure
-Codebase- all main logic for creating and running the model
-Models - Stores the trained models
-PiFiles - Code that is meant to be run on the Pi
+- Codebase- all main logic for creating and running the model
+- Models - Stores the trained models
+- PiFiles - Code that is meant to be run on the Pi
 
 ## Prereq
 ### TODO
